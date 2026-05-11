@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/multirepo-mavyret/:/"
+    "/content/multiirepo-mavyret/:/"
   ],
   "includes": [
-    "/content/multirepo-mavyret/"
+    "/content/multiirepo-mavyret/"
   ]
 }
